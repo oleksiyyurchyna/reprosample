@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930759254709",
+    "firebase_url": "https://reprosample-4b547.firebaseio.com",
+    "project_id": "reprosample-4b547",
+    "storage_bucket": "reprosample-4b547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930759254709:android:efea9fd017cf08935814fc",
+        "android_client_info": {
+          "package_name": "com.companyname.reprosample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930759254709-lc18ao239boi8esl88dil8h0m8188ojl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Y2_HUN1F6K8lEcXZ2KzjwTdUEsQTNrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930759254709-lc18ao239boi8esl88dil8h0m8188ojl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
